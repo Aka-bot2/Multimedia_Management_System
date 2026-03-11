@@ -5,7 +5,7 @@
 
 ## About
 
-This project simulates the internal management system of a media club. Different users log in with their credentials and get access to different features based on their role. All data is stored and retrieved using CSV files, which act as a lightweight database.
+This project simulates the internal management system of the multimedia departments resources. Different users log in with their credentials and get access to different features based on their role. All data is stored and retrieved using CSV files, which act as a lightweight database.
 
 ---
 
