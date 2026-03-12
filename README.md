@@ -105,3 +105,7 @@ g++ proj_3.cpp -o 3
 - How to use CSV files as a simple persistent data store in C++
 - How friend classes and composition differ from inheritance
 - How to manage multiple inheritance and resolve ambiguity using virtual base classes
+
+**Contributors**
+    - Akashh (https://github.com/Aka-bot2)
+    - Chetan (https://github.com/Chetan-37) 
