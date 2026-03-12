@@ -107,5 +107,5 @@ g++ proj_3.cpp -o 3
 - How to manage multiple inheritance and resolve ambiguity using virtual base classes
 
 ## Contributors
-- **Akashh** [GitHub](https://github.com/Aka-bot2)
-- **Chetan** [GitHub](https://github.com/Chetan-37) 
+- **Akashh** [@Aka-bot2](https://github.com/Aka-bot2)
+- **Chetan** [@Chetan-37](https://github.com/Chetan-37) 
