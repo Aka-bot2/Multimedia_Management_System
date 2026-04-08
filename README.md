@@ -90,8 +90,8 @@ Project  (accessed via Admin)
 ## How to Run
 
 ```bash
-g++ proj_3.cpp -o 3
-./3
+g++ 'proj 4'.cpp -o 4
+./4
 ```
 
 > Make sure all CSV files and other cpp files/headers are in the same directory as the executable.
